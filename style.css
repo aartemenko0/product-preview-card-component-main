@@ -21,6 +21,7 @@ body {
   font-size: 14px;
   font-family: "Montserrat", sans-serif;
   color: var(--dark-grayish-blue);
+  margin: 0 auto;
 }
 
 .container {
